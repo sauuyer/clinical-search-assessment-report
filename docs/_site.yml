@@ -1,0 +1,10 @@
+name: "CWML Clinical Team Searches"
+output_dir: "docs"
+navbar:
+  title: "Assessment Reports"
+  left:
+  - text: "Home"
+  href:index.html
+output:
+  html_document:
+ theme: cosmo
