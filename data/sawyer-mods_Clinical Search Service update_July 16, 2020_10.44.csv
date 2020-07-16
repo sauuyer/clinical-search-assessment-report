@@ -1,0 +1,26 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,DistributionChannel,UserLanguage,New search or continuation of a search or project,Date of request (example yyyy/mm/dd),who (choose more than one): - Selected Choice,who (choose more than one): - other - Text,affiliation: - Selected Choice,affiliation: - Other - Text,Requester - Title,Department: - Selected Choice,Department: - Internal Medicine - Text,Department: - Other - Text,Search complete date (example yyyy/mm/dd),Number of hours spent searching - Selected Choice,Number of hours spent searching - other - Text,Topic,Search Type - Selected Choice,Search Type - General - Text,"Search Type - Quality Improvement Project (please add any additional information such as unit, etc. - Text",Search Type - Other - Text,Databases searched: - Selected Choice,Databases searched: - Other - Text,Databases searched: - Other - Text,Databases searched: - Other - Text,Notes
+7/4/20 8:00,7/4/20 8:02,IP Address,100,146,TRUE,7/4/20 8:02,R_2ZJROUy0yfTPr3t,,,,,anonymous,EN,New Search,7/2/20,"nurse,other",Nurse Administrator,YNHH,-99,Adminstrator,Nursing,-99,-99,7/4/20,less than an hour,-99,conducting nursing research focused on Nursing Leadership during Covid-19. ,General,-99,-99,-99,"Ovid MEDLINE,CINAHL",-99,-99,-99,-99
+7/14/20 13:03,7/14/20 13:07,IP Address,100,245,TRUE,7/14/20 13:07,R_2Cq3AkaYTG3sCDj,,,,,anonymous,EN,Continuation,7/14/20,nurse,-99,YNHH,-99,-99,-99,-99,-99,7/14/20,less than an hour,-99,"Jeff Curran, nurse from YNHH, DNP student at UMass, Amherst:
+
+Is there such thing as a virtual literature search? I am doing a paper for a summer ethics class and I am looking for some current articles re: emergency contraception in the setting of Catholic health care providers. I have a few articles, but am a bit anemic on the moral perspective of facilities and their POV and the position of our state. I am sure there must be plenty of new material, but my search is coming up short
+",General,-99,-99,-99,"Ovid MEDLINE,Ovid Embase,CINAHL,Scopus",-99,-99,-99,-99
+7/14/20 14:19,7/14/20 14:20,IP Address,100,88,TRUE,7/14/20 14:20,R_2zApL8GEichRDvJ,,,,,anonymous,EN,New Search,7/1/20,nurse,-99,YNHH,-99,"Lead Coordinator, Resuscitation Management",Nursing,-99,-99,7/14/20,less than an hour,-99,"We are reaching out for assistance with a project.
+The hospital is looking at starting an ECMO CPR program.
+Would you be able to do a search for us on related articles and send a link to related literature?
+We are looking for studies from the past 10 years, no need to exclude pediatric studies.
+Attached is an index article on the topic we are researching.
+
+I appreciate any assistance you can provide.
+Thank you,
+Laura
+
+Laura A. De Vaux, MSN, RN, CNL
+Lead Coordinator, Resuscitation Management
+",General,-99,-99,-99,"Ovid MEDLINE,Ovid Embase,CINAHL",-99,-99,-99,-99
+7/15/20 12:42,7/15/20 12:44,IP Address,100,114,TRUE,7/15/20 12:44,R_2ONgw11rWMCasuV,,,,,anonymous,EN,New Search,7/12/20,resident,-99,YSM,-99,-99,Psychiatry,-99,-99,7/15/20,1-2 hours,-99,-99,General,-99,-99,-99,"PubMed,Other",PTSDpubs,-99,-99,-99
+8/20/20,,,,,,,,,,,,,,Continuation,8/20/20,ITS,,YSPH,,,YSPH-IT,,,,3-4 hours,,,,,,,,,,,
+7/14/20 13:03,7/14/20 13:07,IP Address,100,245,TRUE,7/14/20 13:07,R_2Cq3AkaYTG3sCDj,,,,,anonymous,EN,Continuation,8/10/20,nurse,-99,YNHH,-99,-99,-99,-99,-99,7/14/20,2-3 hours,-99,"Jeff Curran, nurse from YNHH, DNP student at UMass, Amherst:
+
+Is there such thing as a virtual literature search? I am doing a paper for a summer ethics class and I am looking for some current articles re: emergency contraception in the setting of Catholic health care providers. I have a few articles, but am a bit anemic on the moral perspective of facilities and their POV and the position of our state. I am sure there must be plenty of new material, but my search is coming up short
+",General,-99,-99,-99,"Ovid MEDLINE,Ovid Embase,CINAHL,Scopus",-99,-99,-99,-99
+7/15/20 12:42,7/15/20 12:44,IP Address,100,114,TRUE,7/15/20 12:44,R_2ONgw11rWMCasuV,,,,,anonymous,EN,New Search,8/2/20,resident,-99,YSM,-99,-99,Psychiatry,-99,-99,7/15/20,1-2 hours,-99,-99,General,-99,-99,-99,"PubMed,Other",PTSDpubs,-99,-99,-99
