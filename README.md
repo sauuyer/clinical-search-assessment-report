@@ -1,4 +1,4 @@
-# clinical-search-assessment-report
+# CWML Clinical Team Search Assessment Reports
 
 ## View report 1: https://sauuyer.github.io/clinical-search-assessment-report/
 
